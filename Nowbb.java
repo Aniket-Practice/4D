@@ -13,5 +13,7 @@ public class Nowbb {
 
 
         System.out.println("Awsome work culture");
+
+        System.out.println("Hello Beautiful");
     }
 }
